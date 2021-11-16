@@ -7,4 +7,4 @@ run in the CL <strong>npm install</strong> in both the frontend and backend dire
 
 <h1>Overview</h2>
 The shop offers a variety of vehicles for purchase. All of the vehicles will be displayed on the homepage.
-<img src="images/img1.jpg">
+<img src="https://github.com/OmarIsmail7980/The-Shop/blob/main/TheShop/images/img1.jpg">
