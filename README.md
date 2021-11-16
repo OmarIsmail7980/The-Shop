@@ -10,7 +10,7 @@ The shop offers a variety of vehicles for purchase. All of the vehicles will be 
 <img src="https://github.com/OmarIsmail7980/The-Shop/blob/main/TheShop/images/img1.jpg">
 
 To get more details about the vehicle click on the <strong>Details</strong> which will display addtional info about the vehicle. There you can either buy the item or put in the cart. 
-<img src="">
+<img src="https://github.com/OmarIsmail7980/The-Shop/blob/main/TheShop/images/img2.jpg">
 
 To finish your shop you will be going to the <strong>cart</strong> page and you can remove the items you don't want from your cart or purchase everything by clicking <strong>Buy</strong>. make sure to remove or purchase items before you leave the page or else you loose items in the cart.
 <img src="https://github.com/OmarIsmail7980/The-Shop/blob/main/TheShop/images/img3.jpg">
