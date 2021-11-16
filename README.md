@@ -4,3 +4,7 @@ A full stack web application developed using Angular and Node.js. This applicati
 
 <h1>Getting started</h1>
 run in the CL <strong>npm install</strong> in both the frontend and backend directories. this will install the dependecies for the project.
+
+<h1>Overview</h2>
+The shop offers a variety of vehicles for purchase. All of the vehicles will be displayed on the homepage.
+<img src="images/img1.jpg">
